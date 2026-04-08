@@ -6,6 +6,9 @@
 - [ ] https://dailyremote.com/remote-job/regional-director-of-quality-assurance-and-monitoring-4826034 | PACS | Regional Director of Quality Assurance and Monitoring (Remote) | $90K–$120K
 - [ ] https://careers.icf.com/us/en/job/R2600889/PMO-Director-Program-Operations-Manager-Texas-REMOTE | ICF | PMO Director / Program Operations Manager (Texas Remote) | $119K–$203K
 - [ ] https://dailyremote.com/remote-job/director-quality-healthcare-remote-4820309 | Magellan Health | Director, Quality — Healthcare (Remote) | $93K–$159K
+- [ ] https://dailyremote.com/remote-job/director-provider-risk-adjustment-4833926 | CorroHealth | Director, Provider Risk Adjustment (Remote) |
+- [ ] https://jobs.femtechinsider.com/companies/everly-health/jobs/68593495-director-of-regulatory-and-quality-assurance-hoffman-estates-il-or-austin-tx | Everly Health | Director of Regulatory and Quality Assurance (Austin TX or Remote) | $150K–$178K
+- [ ] https://dailyremote.com/remote-job/director-of-system-operations-4836448 | Mary Free Bed Rehabilitation Hospital | Director of System Operations (Remote/Hybrid) |
 
 ## Procesadas
 - [x] #007 | https://jobs.ashbyhq.com/iambic-therapeutics/a533ce7f-25c0-4a37-a307-36b1ea594a88 | Iambic Therapeutics | Director, Quality Systems & Compliance (Remote) | 2.5/5 | PDF ❌
