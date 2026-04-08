@@ -32,7 +32,7 @@ Accomplished operations executive and Systems Thinking Architect with a 25+ year
 - Author scalable SOP frameworks and operational blueprints, leveraging Google Labs AI to accelerate process development and efficiency.
 
 ### Praos Group LLC
-**Fractional Executive / Operations Consultant** | Miami, FL (Remote) | *Apr 2024 – Present*
+**Fractional Executive / Operations Consultant** | Florida LLC (Remote) | *Apr 2024 – Present*
 
 - Delivered fractional executive operations and organizational development services to small and mid-size enterprises across the U.S. and Latin America.
 - Administered Everything DiSC® assessments and facilitated corporate leadership, communication, and team effectiveness workshops in English and Spanish.
