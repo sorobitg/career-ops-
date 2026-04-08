@@ -8,6 +8,10 @@
 - [ ] https://www.ziprecruiter.com/c/Harris-Center-for-Mental-Health-and-IDD/Job/Program-Director-III-(Peers-for-Hope-House)/-in-Houston,TX?jid=0edfd215e13762f7 | Harris Center for Mental Health and IDD | Program Director III (Houston, TX)
 - [ ] https://dailyremote.com/remote-job/program-director-texas-remote-4827222 | ICF | Program Director (Texas Remote)
 - [ ] https://www.learn4good.com/jobs/the-woodlands/texas/management_and_managerial/4947212794/e/ | OCD Anxiety Centers | Clinical Program Director - Behavioral Health (The Woodlands, TX)
+- [ ] https://sepsis-alliance.breezy.hr/p/a14561edf9e2-director-of-operations | Sepsis Alliance | Director of Operations (Remote) | $110K–$125K
+- [ ] https://dailyremote.com/remote-job/regional-director-of-quality-assurance-and-monitoring-4826034 | PACS | Regional Director of Quality Assurance and Monitoring (Remote) | $90K–$120K
+- [ ] https://careers.icf.com/us/en/job/R2600889/PMO-Director-Program-Operations-Manager-Texas-REMOTE | ICF | PMO Director / Program Operations Manager (Texas Remote) | $119K–$203K
+- [ ] https://dailyremote.com/remote-job/director-quality-healthcare-remote-4820309 | Magellan Health | Director, Quality — Healthcare (Remote) | $93K–$159K
 
 ## Procesadas
 - [x] #1 | https://memorialhermann.wd5.myworkdayjobs.com/external/job/Memorial-Hermann-Tower/Director--Corporate-Compliance--Hybrid-_100158145 | Memorial Hermann | Director, Corporate Compliance (Hybrid) | 3.8/5 | PDF ❌
