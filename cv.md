@@ -1,94 +1,78 @@
 # Sisy Orobitg, MBA
 
-**Location:** Houston, TX · **Email:** [your-email@example.com]
+**Director of Operations | Systems Architect | Compliance & Operations**
+
+**Location:** Conroe, TX · **Phone:** +1 (305) 924-5390 · **Email:** sorobitg@gmail.com
 **LinkedIn:** linkedin.com/in/sisyorobitg
-**Company:** praosgroup.com
 
 ---
 
 ## Professional Summary
 
-Trilingual (English · Spanish · Portuguese) business strategist, certified leadership coach, and entrepreneur with a proven track record in HR consulting, executive coaching, global business development, and trade finance. Founder & CEO of Praos Group LLC, a boutique consulting firm specializing in leadership development, HR strategy, and organizational transformation. Committed to advancing women's empowerment and inclusive leadership. First-generation MBA graduate with an undergraduate foundation in International Relations.
+Relationship-driven operations executive and Systems Thinking Architect with 15+ years of experience leading compliance programs, quality assurance, and public-facing organizational initiatives. Deep expertise in AI Agentic Frameworks, Corrective Action Planning (CAP), and independent regulatory auditing against The Joint Commission (TJC), ORR Policy Guidelines, Interim Final Rule, Cooperative Agreements, and Texas GRO Licensing standards. Proven ability to architect scalable workflows using Power BI, SharePoint, Figma, and Visio while driving data-informed stakeholder engagement and operational excellence. Trilingual (English · Spanish · Portuguese) communicator with an MBA from Florida International University.
 
 ---
 
 ## Experience
 
-### Praos Group LLC — CEO & Founder
-**Houston, TX (USA) · Doral, FL (USA) · Santo Domingo, DR** | *2021 – Present*
+### Dynamic Service Solutions / ChildrenFirst Residential Care (CFRC)
+**Quality Assurance / Quality Control Coordinator** | Houston, TX | *2024 – Present*
 
-- Founded and scaled a boutique consulting and coaching firm serving clients across the US, Dominican Republic, and Latin America.
-- Designed and delivered executive leadership development programs, management training, and HR strategy workshops for corporate clients.
-- Signed the Women's Empowerment Principles (WEPs), embedding gender equality into the company's core mission.
-- Developed and facilitated transformational workshops for individuals and organizations on resilience, career pivots, and inclusive leadership.
-- Manages Praos Group International S.R.L. (Dominican Republic entity) to serve the Spanish-speaking market.
+- Conduct comprehensive independent regulatory audits of documentation for deficiencies and deviations against Cooperative Agreements, UC Policy Guidelines, and DHHS Field Guidance.
+- Ensure organizational adherence to The Joint Commission (TJC) Standards for Behavioral Health and Texas General Residential Organization (GRO) Licensing requirements.
+- Spearhead evidence development and facilitate Corrective Action Report (CAR) meetings, achieving 100% on-time completion of remediation timelines.
+- Developed Power BI dashboards and Visio organizational charts to monitor quality metrics and streamline cross-departmental reporting.
+- Authored comprehensive SOPs and conducted rigorous Policy & Procedure Analysis to proactively mitigate operational and compliance risks.
 
-### Global Account Strategist
-**[Company Name]** | *[Dates]*
+### Premier Services & Consulting LLC — Avertio™ & SOP Authority™
+**Founder / Systems Architect** | Conroe, TX | *2024 – Present*
 
-- Managed strategic relationships with global accounts, driving revenue growth and client retention across international markets.
-- Developed and executed account strategies aligned with client business goals and organizational objectives.
-- Leveraged multilingual communication skills (English, Spanish, Portuguese) to engage diverse stakeholders across regions.
+- Design and implement AI Agentic Frameworks to automate complex healthcare workflows and patient safety protocols.
+- Engineer high-fidelity process frameworks and stakeholder-facing visualizations using Figma and Canva to communicate the J.O.P. RN Protocol™.
+- Author scalable SOP frameworks and operational blueprints, leveraging Google Labs AI to accelerate process development and efficiency.
 
-### Trade Finance Specialist (Consultant)
-**Euro Exim Bank** | *[Dates]*
+### Deployed Services LLC
+**Interim EOC Manager & Compliance Assurance Supervisor** | Greensboro, NC | *2022 – 2024*
 
-- Provided trade finance solutions to businesses engaged in international trade.
-- Advised clients on financial instruments, risk mitigation, and cross-border transaction structuring.
-
-### Certified Life and Leadership Coach
-**ILC Academy — Florida** | *[Dates]*
-
-- Coached individuals and executives to accelerate professional growth, navigate career transitions, and develop leadership capabilities.
-- Designed personalized coaching programs focusing on resilience, purpose, and performance.
-
-### VP Recruiter / Talent Acquisition
-**Patricia Báez** | *[Dates]*
-
-- Supported executive-level recruiting and talent strategy initiatives.
+- Served as Interim Emergency Operations Center (EOC) Manager (Sept 2023 – May 2024), overseeing critical infrastructure, compliance operations, and incident response during high-pressure activations.
+- Led daily stand-up meetings with 15–20 cross-functional stakeholders to maintain operational synchronization and accountability to project timelines.
+- Applied FEMA NIMS/ICS and EHS knowledge to coordinate large workgroups and manage facility safety protocols across multiple sites.
+- Developed Project Charters and Visio process maps to define scope, establish governance, and align diverse departmental teams.
 
 ---
 
 ## Education
 
-**Master of Business Administration (MBA)**
-*[University Name]* | *[Year]*
+**Master of Business Administration (MBA) — Corporate Business Administration**
+Florida International University
 
-**Bachelor's Degree — International Relations**
-*[University Name]* | *[Year]*
+**Bachelor of Arts — International Relations**
+Florida International University
 
-**Women's Entrepreneurship Certificate**
-Cornell University | *[Year]*
+**Women's Entrepreneurship Certificate** (Bank of America Program)
+Cornell University
 
 ---
 
 ## Certifications
 
-- **Certified Life and Leadership Coach (CLC)** — ILC Academy
+- **Lean Six Sigma Green Belt**
+- **Google Project Management Certificate**
+- **Certified Everything DiSC® Practitioner**
 - **Women's Entrepreneurship Certificate** — Cornell University
-- **MBA** — Graduate Business Degree
 
 ---
 
-## Skills
+## Technical & Systems Proficiencies
 
-**Consulting & Coaching:** Executive leadership coaching, life coaching, career coaching, resilience coaching, management development, HR strategy, organizational transformation, workshop facilitation, change management
+**AI & Automation:** AI Agentic Frameworks, Google Labs, Workflow Automation, MVP Demo Development
 
-**Business Development:** Global account management, strategic partnerships, client relationship management, trade finance, international business development
+**Design & Visualization:** Figma (UX/UI frameworks), Visio (org charts / process mapping), Canva
 
-**HR & People:** Talent acquisition, performance management, leadership development, DEI initiatives, women's empowerment programs
+**Regulatory & Compliance:** The Joint Commission (TJC) Standards, Texas GRO Licensing, ORR Policy Guidelines, Interim Final Rule, FEMA NIMS/ICS, EHS
 
-**Languages:** Spanish (native), English (fluent), Portuguese (conversational)
+**Data & CRM:** Power BI (dashboards), SharePoint (admin), Salesforce, HubSpot
 
-**Tools & Platforms:** [Add CRM, HRIS, or other tools you use]
+**Methodology:** Lean Six Sigma Green Belt, Corrective Action Planning (CAP), Project Charters, SOP Development, Policy & Procedure Analysis
 
----
-
-## Affiliations & Initiatives
-
-- **Women's Empowerment Principles (WEPs) Signatory** — UN Global Compact
-- **Everything DiSC Authorized Partner** — Praos Group LLC
-
----
-
-*Note: Review and update bracketed fields [like this] with your actual details.*
+**Languages:** English (native/bilingual), Spanish (native/bilingual), Portuguese (intermediate professional)
